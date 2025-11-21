@@ -10,7 +10,7 @@ void setup() {
   dht.begin();
 }
 
-// nesse codigo exemplo ele apenas lê a humidade e a temperatura
+// nesse codigo de exemplo apenas lê a humidade e a temperatura
 void loop() {
   float h = dht.readHumidity();
   float t = dht.readTemperature(); 
