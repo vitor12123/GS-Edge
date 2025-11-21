@@ -10,6 +10,7 @@ Integrantes
 *  Inclusão produtiva: soluções acessíveis para pessoas com deficiência, idosos ou comunidades de difícil acesso.
 
 # Video 
+https://youtu.be/IXe1nLr-RAo
 
 
 # Solução 
