@@ -1,9 +1,9 @@
 # GS-Edge
 
 Integrantes 
-* Vitor Pallis RM:561962
-* Miguel Manfré RM:
-* João Toledo RM:
+* Vitor Pallis RM: 561962
+* Miguel Manfré RM: 564233
+* João Toledo RM: 563433
 
 
 # Tema escolhido 
