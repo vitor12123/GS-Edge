@@ -6,12 +6,14 @@ Integrantes
 * João Toledo RM:
 
 
-Tema escolhido 
+# Tema escolhido 
 *  Inclusão produtiva: soluções acessíveis para pessoas com deficiência, idosos ou comunidades de difícil acesso.
 
-Video 
+# Video 
 
 
+# Solução 
+O nosso trabalho consiste em ensinar pessoas sobre o ESP32 
 
-Wokwi 
+# Wokwi 
 https://wokwi.com/projects/447352958442945537
